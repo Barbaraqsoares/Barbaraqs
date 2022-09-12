@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: ela/dela
 
-- :female_mage: Atualmente aprendendo C#
+- :dart: Atualmente aprendendo C#
 <br></br>
 <div>
 
