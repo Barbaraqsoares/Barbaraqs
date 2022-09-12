@@ -3,7 +3,7 @@
 
 ### Olá! Eu sou a Bárbara Queiroz
 
-- 🌱 Estudante de Desenvolvimento Web
+- 🌱 Desenvolvedora Full-Stack
 - 📫 Contate-me no e-mail: barbaraqs@gmail.com
 - 😄 Pronouns: ela/dela
 <br></br>
