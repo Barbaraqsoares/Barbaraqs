@@ -3,7 +3,7 @@
 
 ### Olá! Eu sou a Bárbara Queiroz
 
-- 🌱 Software Enginieer Full-Stack Júnior
+- 🌱 Software Engineer Full-Stack
 - 📫 Contate-me no e-mail: barbaraqs@gmail.com
 - 😄 Pronouns: ela/dela
 <br></br>
